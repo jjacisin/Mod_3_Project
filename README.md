@@ -17,3 +17,9 @@
 
 Data Source:
   -- http://www.nber.org/data/federal-upper-limits/2017/
+
+
+Current Thoughts:
+  --MU: Working to find additional information about the drugs in scope
+  --JJ: Write functions that pulls data from Medicare website
+    --Provide MU with setlist of ingredients
