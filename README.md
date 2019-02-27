@@ -18,6 +18,7 @@
 Data Source:
   -- http://www.nber.org/data/federal-upper-limits/2017/
     --Dataset explainer: https://www.medicaid.gov/medicaid-chip-program-information/by-topics/prescription-drugs/true-up/xxxxxdraft-true-up-methodology.pdf
+    -- FUL Explainer: https://www.medicaid.gov/medicaid/prescription-drugs/federal-upper-limits/index.html
   -- Explanation of why same ingredients have different forms/strengths:
 
     -- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3305679/
